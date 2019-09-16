@@ -1,0 +1,7 @@
+C:\Users\Guadalupe\Desktop\GC\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+C:\Users\Guadalupe\Desktop\GC\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+C:\Users\Guadalupe\Desktop\GC\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+C:\Users\Guadalupe\Desktop\GC\CurrencyConverter\obj\Debug\CurrencyConverter.csprojAssemblyReference.cache
+C:\Users\Guadalupe\Desktop\GC\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\Guadalupe\Desktop\GC\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+C:\Users\Guadalupe\Desktop\GC\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
